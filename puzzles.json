@@ -933,6 +933,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-01",
+      "date": "2026-11-01",
+      "number": "018",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Bollywood Villains ",
+          "items": [
+            "Mogambo",
+            "Gabbar",
+            "Crime Master Gogo",
+            "Kancha Cheena"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Shoojit Sircar Directorials ",
+          "items": [
+            "Piku",
+            "Vicky Donor",
+            "October",
+            "Gulabo Sitabo"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Ek Ladki Ko Dekha Toh Aisa Laga, Jaise ",
+          "items": [
+            "Lehron Ka Khel",
+            "Resham Ki Dor",
+            "Naachta Mor",
+            "Chaandni Raat"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Hindi Movie Titles with Hidden Numbers",
+          "items": [
+            "Dushman",
+            "Saathiya",
+            "Eklavya",
+            "Dostana"
+          ]
+        }
+      ]
     }
   ]
 }
