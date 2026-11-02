@@ -984,6 +984,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-02",
+      "date": "2026-11-02",
+      "number": "019",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "SRK Films with On-Screen Character Deaths",
+          "items": [
+            "Baazigar",
+            "Kal Ho Naa Ho",
+            "Dil Se",
+            "Raees"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Films with Shah Rukh Khan Cameos",
+          "items": [
+            "Brahmāstra Part One: Shiva",
+            "Ae Dil Hai Mushkil",
+            "Luck by Chance",
+            "Heyy Babyy"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Films centered around a recipe/food",
+          "items": [
+            "Maska",
+            "Luv Shuv Tey Chicken Khurana",
+            "Daawat-e-Ishq",
+            "Sharmaji Namkeen"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Actors who have played characters based on Dawood Ibrahim",
+          "items": [
+            "Akshay Kumar",
+            "Danish Iqbal",
+            "Rishi Kapoor",
+            "Emraan Hashmi"
+          ]
+        }
+      ]
     }
   ]
 }
