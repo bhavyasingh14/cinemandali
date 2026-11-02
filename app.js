@@ -2,7 +2,7 @@ import {COLORS, MAX_MISTAKES, createState, dateKey, evaluateGuess, millisecondsT
 
 const $ = id => document.getElementById(id);
 const PREFIX = 'filmi.connections.v1.';
-const EMOJI = ['🟨', '🟩', '🟦', '🟪'];
+const EMOJI = ['🎬', '📽️', '🎞️', '🎟️'];
 let dataset, puzzle, state, roundDate, preview = false, archive = false;
 let selected = new Set(), order = [], busy = false, lastDate = dateKey(), storageWorks = true;
 const memory = new Map();
