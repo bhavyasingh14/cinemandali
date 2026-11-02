@@ -105,7 +105,7 @@ function toggleCard(id) {
   if (busy || state.status !== 'playing') return;
   if (selected.has(id)) selected.delete(id);
   else if (selected.size < 4) selected.add(id);
-  else {say('Four films make a connection. Deselect one to swap it.', 'attention'); return;}
+  else {say('Four cards make a connection. Deselect one to swap it.', 'attention'); return;}
   render();
   say(selected.size === 4 ? 'Feeling a connection? Make it official.' : 'Pick any four. Find their common thread.');
 }
@@ -120,7 +120,7 @@ function submit() {
     selected.clear(); render();
     say(state.status === 'won' ? 'All four connections found. Take a bow.' : 'Cut! A perfect connection. Keep rolling.', 'success');
   } else {
-    say(result.type === 'near' ? 'One film away. Three of these belong together.' : 'A plot twist. Those four don’t share a group.', 'attention');
+    say(result.type === 'near' ? 'One card away. Three of these belong together.' : 'A plot twist. Those four don’t share a group.', 'attention');
     busy = true; updateControls();
     [...$('board').children].filter(b => selected.has(b.dataset.cardId)).forEach(b => b.classList.add('shake'));
     const currentRound = storageKey();
@@ -148,7 +148,7 @@ function showResults() {
 }
 
 function shareText() {
-  return ['Filmi Connections 🎬', `${preview ? 'Preview' : 'Show ' + (puzzle.number || puzzle.id)} · ${formatDate(roundDate, {day: 'numeric', month: 'short', year: 'numeric'})}`, '', ...state.history.map(row => row.map(n => EMOJI[n]).join('')), '', `${state.solved.length}/4 connections · ${state.mistakes}/4 retakes`, location.origin + location.pathname].join('\n');
+  return ['Cine Mandali 🎬', `${preview ? 'Preview' : 'Show ' + (puzzle.number || puzzle.id)} · ${formatDate(roundDate, {day: 'numeric', month: 'short', year: 'numeric'})}`, '', ...state.history.map(row => row.map(n => EMOJI[n]).join('')), '', `${state.solved.length}/4 connections · ${state.mistakes}/4 retakes`, location.origin + location.pathname].join('\n');
 }
 async function share() {
   const text = shareText();
