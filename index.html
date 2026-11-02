@@ -4,8 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#f7f5ed">
-  <meta name="description" content="Sixteen films. Four hidden connections. A little Bollywood puzzle for your every day.">
-  <title>Filmi Connections · Your daily picture puzzle</title>
+  <meta name="description" content="Sixteen cards. Four hidden connections. A little Bollywood puzzle for your every day.">
+  <title>Cine Mandali · Your daily Bollywood puzzle</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="fonts.css">
   <link rel="stylesheet" href="styles.css">
@@ -34,7 +34,7 @@
   </defs></svg>
   <a class="skip-link" href="#game">Skip to the puzzle</a>
   <header class="masthead">
-    <a class="brand" href="./" aria-label="Filmi Connections home"><svg><use href="#i-reel"/></svg><span>THE FILMI<br><b>CONNECTION CLUB</b></span></a>
+    <a class="brand" href="./" aria-label="Cine Mandali home"><svg><use href="#i-reel"/></svg><span>CINE<br><b>MANDALI</b></span></a>
     <span class="masthead-caption">FOR THE LOVE OF CINEMA</span>
     <nav aria-label="Game navigation">
       <button class="text-button how-button" data-open="rulesDialog">How to play <span class="question-mark">?</span></button>
@@ -47,8 +47,8 @@
     <div class="ambient-cinema" aria-hidden="true"><img class="ambient-poster ambient-left" src="assets/sholay.jpg" alt="" width="891" height="1200"><img class="ambient-poster ambient-right" src="assets/mughal-e-azam.jpg" alt="" width="741" height="1103"></div>
     <section class="hero" aria-labelledby="pageTitle">
       <div class="eyebrow"><span class="live-dot"></span> THE DAILY SHOW <span class="small-star">✳</span> ONE PUZZLE. MANY PLOT TWISTS.</div>
-      <div class="title-wrap"><h1 id="pageTitle">Filmi <em>Connections</em><span class="title-dot">.</span></h1><span class="handwritten hero-note">thoda filmi, thoda tricky.</span></div>
-      <p>Sixteen films. Four hidden connections.<br class="mobile-break"> Put your inner film buff to work.</p>
+      <div class="title-wrap"><h1 id="pageTitle">Cine <em>Mandali</em><span class="title-dot">.</span></h1><span class="handwritten hero-note">thoda filmi, thoda tricky.</span></div>
+      <p>Sixteen cards. Four hidden connections.<br class="mobile-break"> Put your inner film buff to work.</p>
     </section>
 
     <div class="cinema-stage">
@@ -60,15 +60,15 @@
       </aside>
 
       <section class="game-shell" id="game" aria-label="Daily connections puzzle" tabindex="-1">
-        <div class="edition-bar"><div class="edition-date"><svg><use href="#i-calendar"/></svg><span id="puzzleDate">The daily picture puzzle</span></div><span class="edition-number" id="editionNumber">PREVIEW EDITION</span></div>
-        <div class="game-intro"><p>Find four films with something in common.</p><span class="board-note" aria-hidden="true">16 FILMS · 4 CONNECTIONS</span></div>
+        <div class="edition-bar"><div class="edition-date"><svg><use href="#i-calendar"/></svg><span id="puzzleDate">The daily Bollywood puzzle</span></div><span class="edition-number" id="editionNumber">PREVIEW EDITION</span></div>
+        <div class="game-intro"><p>Find four cards with something in common.</p><span class="board-note" aria-hidden="true">16 CARDS · 4 CONNECTIONS</span></div>
         <div class="loading" id="loading">Setting the scene<span> · · ·</span></div>
         <div class="solved-groups" id="solvedGroups" aria-label="Solved connections"></div>
         <div class="board" id="board" role="group" aria-label="Select four film cards" aria-busy="true"></div>
-        <noscript><p class="load-error">Please enable JavaScript to play Filmi Connections.</p></noscript>
+        <noscript><p class="load-error">Please enable JavaScript to play Cine Mandali.</p></noscript>
         <div class="feedback-line"><p id="feedback" role="status" aria-live="polite">Pick any four. Find their common thread.</p><span id="selectionCount">0 / 4 selected</span></div>
         <div class="game-actions"><div class="secondary-actions"><button id="shuffleButton" class="button button-light"><svg><use href="#i-shuffle"/></svg><span>Shuffle</span></button><button id="deselectButton" class="button button-light" disabled>Deselect</button></div><button id="submitButton" class="button button-primary" disabled><span>Make a connection</span><svg><use href="#i-arrow"/></svg></button></div>
-        <div class="retakes-row"><div class="retakes"><span>Retakes left</span><div id="retakeDots" class="retake-dots" role="img" aria-label="4 mistakes remaining"><i></i><i></i><i></i><i></i></div></div><span class="game-caption">Every film has a connection.</span></div>
+        <div class="retakes-row"><div class="retakes"><span>Retakes left</span><div id="retakeDots" class="retake-dots" role="img" aria-label="4 mistakes remaining"><i></i><i></i><i></i><i></i></div></div><span class="game-caption">Every card has a connection.</span></div>
         <div id="resultSummary" class="result-summary" hidden><div><b id="resultHeading">That's a wrap!</b><span id="resultText"></span></div><button class="button button-primary" id="resultsButton">View results <svg><use href="#i-arrow"/></svg></button></div>
         <div class="preview-note" id="previewNote" hidden><span class="preview-label">FIRST LOOK</span><p>A sample puzzle while the daily programme comes together.</p></div>
         <div class="next-show"><svg><use href="#i-star"/></svg><span id="nextShowLabel">NEXT SHOW AT MIDNIGHT IST</span><time id="countdown">00:00:00</time></div>
@@ -89,7 +89,7 @@
     <footer class="page-footer"><span>A small daily ritual for big cinema people.</span><button data-open="creditsDialog">From the poster wall <svg><use href="#i-arrow"/></svg></button></footer>
   </main>
 
-  <dialog id="rulesDialog" class="modal"><div class="dialog-top"><span class="eyebrow">BEFORE THE FIRST TAKE</span><button class="icon-button close-dialog" aria-label="Close instructions"><svg><use href="#i-close"/></svg></button></div><h2>Here's the plot.</h2><p>Sixteen films are hiding four connections. Find all four to finish the show.</p><ol class="rules-list"><li><span>01</span><div><b>Pick four films.</b><p>They might share a director, a character name, a title pattern, or something a little less obvious.</p></div></li><li><span>02</span><div><b>Make the connection.</b><p>Submit your selection. A correct group reveals what brings the films together.</p></div></li><li><span>03</span><div><b>Mind your retakes.</b><p>You get four incorrect guesses. A “one film away” message means three of your choices belong together. Repeating a guess costs no retake.</p></div></li></ol><div class="difficulty-key"><span>More straightforward</span><div><i class="yellow"></i><i class="green"></i><i class="blue"></i><i class="purple"></i></div><span>More twisty</span></div><p class="fine-print">One fresh puzzle at midnight, India time. Your progress saves on this device. Use Enter to submit four selected cards.</p><button class="button button-primary full-width close-dialog">Roll camera <svg><use href="#i-arrow"/></svg></button></dialog>
+  <dialog id="rulesDialog" class="modal"><div class="dialog-top"><span class="eyebrow">BEFORE THE FIRST TAKE</span><button class="icon-button close-dialog" aria-label="Close instructions"><svg><use href="#i-close"/></svg></button></div><h2>Here's the plot.</h2><p>Sixteen cards are hiding four connections. Find all four to finish the show.</p><ol class="rules-list"><li><span>01</span><div><b>Pick four cards.</b><p>They might share a director, a character name, a title pattern, or something a little less obvious.</p></div></li><li><span>02</span><div><b>Make the connection.</b><p>Submit your selection. A correct group reveals what brings the cards together.</p></div></li><li><span>03</span><div><b>Mind your retakes.</b><p>You get four incorrect guesses. A “one card away” message means three of your choices belong together. Repeating a guess costs no retake.</p></div></li></ol><div class="difficulty-key"><span>More straightforward</span><div><i class="yellow"></i><i class="green"></i><i class="blue"></i><i class="purple"></i></div><span>More twisty</span></div><p class="fine-print">One fresh puzzle at midnight, India time. Your progress saves on this device. Use Enter to submit four selected cards.</p><button class="button button-primary full-width close-dialog">Roll camera <svg><use href="#i-arrow"/></svg></button></dialog>
   <dialog id="statsDialog" class="modal"><div class="dialog-top"><span class="eyebrow">YOUR BOX OFFICE</span><button class="icon-button close-dialog" aria-label="Close statistics"><svg><use href="#i-close"/></svg></button></div><h2>A fine filmography.</h2><div class="stats-grid"><div><strong id="statPlayed">0</strong><span>Played</span></div><div><strong id="statWinRate">0%</strong><span>Win rate</span></div><div><strong id="statStreak">0</strong><span>Current streak</span></div><div><strong id="statBest">0</strong><span>Best streak</span></div></div><p class="fine-print">Statistics live on this device. Preview puzzles and archive plays don't affect your daily streak.</p><button class="button button-primary full-width close-dialog">Back to the show</button></dialog>
   <dialog id="archiveDialog" class="modal"><div class="dialog-top"><span class="eyebrow">THE BACK CATALOGUE</span><button class="icon-button close-dialog" aria-label="Close archive"><svg><use href="#i-close"/></svg></button></div><h2>Missed a show?</h2><p>Catch up on an earlier edition.</p><div id="archiveList" class="archive-list"></div><button class="button button-primary full-width" id="todayButton">Back to today <svg><use href="#i-arrow"/></svg></button></dialog>
   <dialog id="resultsDialog" class="modal results-modal"><div class="dialog-top"><span class="eyebrow" id="resultsEyebrow">THE END CREDITS</span><button class="icon-button close-dialog" aria-label="Close results"><svg><use href="#i-close"/></svg></button></div><div class="result-star" aria-hidden="true">✳</div><h2 id="resultsTitle">That's a wrap!</h2><p id="resultsDescription"></p><div id="shareGrid" class="share-grid" aria-label="Your guess history"></div><button class="button button-primary full-width" id="shareButton"><svg><use href="#i-copy"/></svg><span>Share your results</span></button><p id="shareStatus" role="status" aria-live="polite" class="fine-print"></p><label id="shareFallback" hidden>Copy your result<textarea id="shareText" readonly rows="7"></textarea></label><div class="results-next"><span>Another day. Another plot twist.</span><b>Midnight IST</b></div></dialog>
