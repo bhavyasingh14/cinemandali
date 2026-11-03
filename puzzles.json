@@ -1035,6 +1035,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-03",
+      "date": "2026-11-03",
+      "dailyMessage": "Thank you to Harshita for the suggestion about a set on Welcome.",
+      "number": "020",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Imran Khan Movies",
+          "items": [
+            "Break Ke Baad",
+            "Luck",
+            "Jaane Tu... Ya Jaane Na",
+            "Ek Main Aur Ekk Tu"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Hindi Songs Based on Raag Yaman",
+          "items": [
+            "Laal Ishq",
+            "Moh Moh Ke Dhaage",
+            "Ay Hairathe",
+            "Ek Dil Ek Jaan"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Actresses in Ladies vs Ricky Bahl",
+          "items": [
+            "Anushka Sharma",
+            "Dipannita Sharma",
+            "Aditi Sharma",
+            "Parineeti Chopra"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies that have a Character's Name from the Welcome Franchise",
+          "items": [
+            "Laila Majnu",
+            "Lucky The Racer",
+            "Ghungroo Ki Aawaaz",
+            "Wanted"
+          ]
+        }
+      ]
     }
   ]
 }
