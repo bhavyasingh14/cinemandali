@@ -1039,7 +1039,6 @@
     {
       "id": "daily-2026-11-03",
       "date": "2026-11-03",
-      "dailyMessage": "Thank you to Harshita for the suggestion about a set on Welcome.",
       "number": "020",
       "groups": [
         {
@@ -1084,6 +1083,57 @@
             "Lucky The Racer",
             "Ghungroo Ki Aawaaz",
             "Wanted"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-11-04",
+      "date": "2026-11-04",
+      "number": "021",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Songs with KK’s Ooo",
+          "items": [
+            "Tu Hi Meri Shab Hai",
+            "Kya Mujhe Pyaar Hai",
+            "Zara Sa",
+            "Labon Ko"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Women Centric Movies",
+          "items": [
+            "Queen",
+            "Darlings",
+            "Kahaani",
+            "Veerey Di Wedding"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies with Saif Ali Khan as the Villain",
+          "items": [
+            "Tanhaji",
+            "Adipurush",
+            "Baazaar",
+            "Omkara"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Debut Movies of the Lead Cast of Andaz Apna Apna",
+          "items": [
+            "Qayamat se Qayamat Tak",
+            "Biwi Ho Toh Aisi",
+            "Prem Qaidi",
+            "Patthar Ke Phool"
           ]
         }
       ]
