@@ -70,6 +70,24 @@
         <div class="game-actions"><div class="secondary-actions"><button id="shuffleButton" class="button button-light"><svg><use href="#i-shuffle"/></svg><span>Shuffle</span></button><button id="deselectButton" class="button button-light" disabled>Deselect</button></div><button id="submitButton" class="button button-primary" disabled><span>Make a connection</span><svg><use href="#i-arrow"/></svg></button></div>
         <div class="retakes-row"><div class="retakes"><span>Retakes left</span><div id="retakeDots" class="retake-dots" role="img" aria-label="4 mistakes remaining"><i></i><i></i><i></i><i></i></div></div><span class="game-caption">Every card has a connection.</span></div>
         <div id="resultSummary" class="result-summary" hidden><div><b id="resultHeading">That's a wrap!</b><span id="resultText"></span></div><button class="button button-primary" id="resultsButton">View results <svg><use href="#i-arrow"/></svg></button></div>
+        <!-- Daily message and contact box -->
+<section
+  id="puzzleContact"
+  class="puzzle-contact"
+  aria-labelledby="puzzleContactHeading"
+  hidden
+>
+  <h3 id="puzzleContactHeading">A note from CineMandali</h3>
+
+  <p id="dailyPuzzleMessage" hidden></p>
+
+  <p class="puzzle-contact-note">
+    For suggestions, write to us at
+    <a href="mailto:hello@cinemandali.org">
+      hello@cinemandali.org
+    </a>.
+  </p>
+</section>
         <div class="preview-note" id="previewNote" hidden><span class="preview-label">FIRST LOOK</span><p>A sample puzzle while the daily programme comes together.</p></div>
         <div class="next-show"><svg><use href="#i-star"/></svg><span id="nextShowLabel">NEXT SHOW AT MIDNIGHT IST</span><time id="countdown">00:00:00</time></div>
         <div class="storage-note" id="storageNote" role="status" hidden>Progress cannot be saved in this browser. You can still play this round.</div>
