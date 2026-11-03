@@ -71,6 +71,17 @@ function render() {
   updateControls();
   const finished = state.status !== 'playing';
   $('resultSummary').hidden = !finished;
+  // Show the box only when the puzzle has ended.
+$('puzzleContact').hidden = !finished;
+
+// Display the message you wrote for this puzzle.
+const dailyMessage =
+  typeof puzzle.dailyMessage === 'string'
+    ? puzzle.dailyMessage.trim()
+    : '';
+
+$('dailyPuzzleMessage').textContent = dailyMessage;
+$('dailyPuzzleMessage').hidden = !dailyMessage;
   $('resultHeading').textContent = state.status === 'won' ? "That's a wrap!" : 'Every show has a twist.';
   $('resultText').textContent = state.status === 'won' ? `${4 - state.mistakes} ${4 - state.mistakes === 1 ? 'retake' : 'retakes'} to spare. All connections found.` : `${state.solved.length} of 4 connections found. Come back for the next show.`;
   $('shareFallback').hidden = true;
