@@ -1137,6 +1137,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-05",
+      "date": "2026-11-05",
+      "number": "022",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of Mughal-E-Azam",
+          "items": [
+            "Madhubala",
+            "Dilip Kumar",
+            "Prithviraj Kapoor",
+            "Nigar Sultana"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Heartbreak Songs ft. Arijit Singh ",
+          "items": [
+            "Channa Mereya",
+            "Bekhayali",
+            "Milne Hai Mujhse Aayi",
+            "Hamari Adhuri Kahani"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Anurag Basu Directorials",
+          "items": [
+            "Life in a… Metro",
+            "Kites",
+            "Jagga Jaasoos",
+            "Ludo"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Debut Movies of the Kapoor Family as a Lead",
+          "items": [
+            "Bobby",
+            "Refugee",
+            "Saawariya",
+            "Neel Kamal"
+          ]
+        }
+      ]
     }
   ]
 }
