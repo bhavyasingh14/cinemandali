@@ -1188,6 +1188,58 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-06",
+      "date": "2026-11-06",
+      "dailyMessage": "We really like Cricket!",
+      "number": "023",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Songs from the Aashiqui 2 Album ",
+          "items": [
+            "Piya Aaye Na",
+            "Tum Hi Ho",
+            "Chahun Main Ya Naa",
+            "Sunn Raha Hai"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Films with No.1 in the title",
+          "items": [
+            "Coolie",
+            "Hero",
+            "Biwi",
+            "Jodi"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Cricket movies based on cricketers",
+          "items": [
+            "Azhar",
+            "MS Dhoni: The Untold Story",
+            "Kaun Pravin Tambe?",
+            "Shabaash Mithu"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Cricket movies not based on cricketers",
+          "items": [
+            "Lagaan",
+            "Patiala House",
+            "Kai Po Che!",
+            "Chain Kulii Ki Main Kulii"
+          ]
+        }
+      ]
     }
   ]
 }
