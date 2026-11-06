@@ -1039,6 +1039,7 @@
     {
       "id": "daily-2026-11-03",
       "date": "2026-11-03",
+      "dailyMessage": "Thank you to Harshita for the suggestion about a set on Welcome.",
       "number": "020",
       "groups": [
         {
@@ -1240,6 +1241,262 @@
           ]
         }
       ]
+    },
+ {
+      "id": "daily-2026-11-07",
+      "date": "2026-11-07",
+      "number": "024",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Hindi Movies ft. Kamal Haasan",
+          "items": [
+            "Sadma",
+            "Saagar",
+            "Chachi 420",
+            "Hey Ram"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Hindi Films Remade with the Same Name",
+          "items": [
+            "Don",
+            "Agneepath",
+            "Karz",
+            "Chashme Buddoor"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies where a central character crosses the border",
+          "items": [
+            "Sarbjit",
+            "Gadar",
+            "Dunki",
+            "Happy Bhag Jayegi"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies on rituals around death",
+          "items": [
+            "Masaan",
+            "Ramprasad ki Tehrvi",
+            "Mukti Bhawan",
+            "Pagglait"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-11-08",
+      "date": "2026-11-08",
+      "number": "025",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Movies with Legal Provisions as the Title ",
+          "items": [
+            "Article 15",
+            "Article 370",
+            "Section 375",
+            "420 IPC"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Movies where a teacher is the central character ",
+          "items": [
+            "Hichki",
+            "Taare Zameen Par",
+            "Super 30",
+            "Paathshaala"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies where one actor plays both dad and son ",
+          "items": [
+            "Shamshera",
+            "Sooryavansham",
+            "Jawan",
+            "Krrish"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies Titles with a Punctuation Mark",
+          "items": [
+            "Ra.One",
+            "Bang Bang!",
+            "Detective Byomkesh Bakshy!",
+            "Kabhi Khushi Kabhie Gham..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-11-09",
+      "date": "2026-11-09",
+      "number": "026",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Historical Dramas",
+          "items": [
+            "Mughal-E-Azam",
+            "Padmaavat",
+            "Asoka",
+            "Panipat"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Songs sung by the actor performing them on screen",
+          "items": [
+            "Pani Da Rang",
+            "Senorita",
+            "Hangover",
+            "Apna Time Aayega"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Educational institutions seen in Bollywood films",
+          "items": [
+            "Gurukul",
+            "Imperial College of Engineering",
+            "St. Teresa's",
+            "Bharat Vidya Mandir"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Rajpal Yadav Characters in Priyadarshan Films",
+          "items": [
+            "Martan Damdere",
+            "Chhote Pandit",
+            "Tulsidas Khan",
+            "Bandya"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-11-10",
+      "date": "2026-11-10",
+      "number": "027",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Movies with Animals in the Title ",
+          "items": [
+            "Nagin",
+            "Bhediya",
+            "Sherni",
+            "Haathi Mere Saathi"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Con Films",
+          "items": [
+            "Special 26",
+            "Bunty aur Babli",
+            "Khosla ka Ghosla",
+            "Badmaash Company"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Films that take place in a single day",
+          "items": [
+            "A Thursday",
+            "Monsoon Shootout",
+            "Khel Khel Mein",
+            "Raincoat"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies where Reema Lagoo plays the mom",
+          "items": [
+            "Kuch Kuch Hota Hai",
+            "Saajan",
+            "Yeh Dillagi",
+            "Hum Saath Saath Hain"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "daily-2026-11-11",
+      "date": "2026-11-11",
+      "number": "028",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Mafia Movies ",
+          "items": [
+            "Satya",
+            "Company",
+            "Vaastav",
+            "Parinda"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Horror Movies ft. Bipasha Basu",
+          "items": [
+            "Raaz",
+            "Alone",
+            "Creature 3D",
+            "Aatma"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "English Translations of Hindi Movie Titles",
+          "items": [
+            "Riddle",
+            "Truth",
+            "Thirsty",
+            "Story"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies where Arshad Warsi plays the hero's friend ",
+          "items": [
+            "Lage Raho Munna Bhai",
+            "Hulchul",
+            "Maine Pyaar Kyun Kiya",
+            "Salaam Namaste"
+          ]
+        }
+      ]
     }
   ]
 }
+
