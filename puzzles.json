@@ -1545,6 +1545,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-13",
+      "date": "2026-11-13",
+      "number": "030",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of Dilwale",
+          "items": [
+            "Varun Dhawan",
+            "Shah Rukh Khan",
+            "Kajol",
+            "Kriti Sanon"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Members of the Heist Team in Happy New Year",
+          "items": [
+            "Nandu",
+            "Rohan",
+            "Jag",
+            "Tammy"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Hrishikesh Mukherjee Directorials",
+          "items": [
+            "Anand",
+            "Chupke Chupke",
+            "Gol Maal",
+            "Bawarchi"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Films centred around an art form ",
+          "items": [
+            "Taal",
+            "Aaja Nachle",
+            "Rockstar",
+            "Gully Boy"
+          ]
+        }
+      ]
     }
   ]
 }
