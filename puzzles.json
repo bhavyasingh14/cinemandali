@@ -1596,6 +1596,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-14",
+      "date": "2026-11-14",
+      "number": "031",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of Padmaavat",
+          "items": [
+            "Ranveer Singh",
+            "Deepika Padukone",
+            "Shahid Kapoor",
+            "Jim Sarbh"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Yash Chopra Directorials",
+          "items": [
+            "Veer-Zaara",
+            "Silsila",
+            "Darr",
+            "Deewaar"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Hindi Movies where children are the main characters",
+          "items": [
+            "Taare Zameen Par",
+            "Chillar Party",
+            "Stanley ka Dabba",
+            "Dhanak"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Fruits/Vegetables mentioned before Sultan’s death scene in Gangs of Wasseypur",
+          "items": [
+            "Kela",
+            "Kathal",
+            "Litchi",
+            "Sitaphal"
+          ]
+        }
+      ]
     }
   ]
 }
