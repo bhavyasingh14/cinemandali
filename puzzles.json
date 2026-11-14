@@ -1647,6 +1647,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-15",
+      "date": "2026-11-15",
+      "number": "032",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Bollywood Serial Killer Movies",
+          "items": [
+            "Sangharsh",
+            "Raman Raghav 2.0",
+            "Murder 2",
+            "Cuttputli"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Actors who have played the PM of India",
+          "items": [
+            "Anupam Kher",
+            "Pankaj Tripathi",
+            "Vivek Oberoi",
+            "Kangana Ranaut"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies in which Sanjay Dutt has played a cop",
+          "items": [
+            "Dhamaal",
+            "Policegiri",
+            "Dhurandhar",
+            "Zila Ghaziabad"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Comeback Movies of Popular Actors",
+          "items": [
+            "Wanted",
+            "Pathaan",
+            "English Vinglish",
+            "Aaja Nachle"
+          ]
+        }
+      ]
     }
   ]
 }
