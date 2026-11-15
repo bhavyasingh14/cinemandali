@@ -274,3 +274,19 @@ h1 em{font-weight:400;color:var(--green)}
     font-size: 21px;
   }
 }
+/* Instagram link in the header */
+.masthead .instagram-link {
+  color: inherit;
+  text-decoration: none;
+  flex-shrink: 0;
+}
+
+.masthead .instagram-link svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
