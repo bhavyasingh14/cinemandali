@@ -1698,6 +1698,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-16",
+      "date": "2026-11-16",
+      "number": "033",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of Kabhi Alvida Naa Kehna",
+          "items": [
+            "Shah Rukh Khan",
+            "Rani Mukerji",
+            "Abhishek Bachchan",
+            "Preity Zinta"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Popular Songs ft. Alia Bhatt",
+          "items": [
+            "Samjhawan",
+            "Tenu Sang Rakhna",
+            "Ishq Wala Love",
+            "Kar Gayi Chull"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Names of the Siblings in Hum Saath Saath Hain",
+          "items": [
+            "Vivek",
+            "Prem",
+            "Vinod",
+            "Sangeeta"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Members of Bhuvan’s Cricket Team in Lagaan ",
+          "items": [
+            "Bhura",
+            "Lakha",
+            "Ishwar",
+            "Kachra"
+          ]
+        }
+      ]
     }
   ]
 }
