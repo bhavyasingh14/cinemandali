@@ -1749,6 +1749,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-17",
+      "date": "2026-11-17",
+      "number": "034",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of Ramayana: Part 1",
+          "items": [
+            "Ranbir Kapoor",
+            "Sai Pallavi",
+            "Yash",
+            "Ravi Dubey"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Movies ft. Ravi Kishan",
+          "items": [
+            "Laapataa Ladies",
+            "Dhamaal 4",
+            "Mirzapur: The Movie",
+            "Race Gurram"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Movies where the main character is not a human",
+          "items": [
+            "Makkhi/Eega",
+            "PK",
+            "777 Charlie",
+            "Robot/Enthiran"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies ft. a real life father-son duo",
+          "items": [
+            "Paa",
+            "Munna Bhai M.B.B.S",
+            "Jersey",
+            "Besharam"
+          ]
+        }
+      ]
     }
   ]
 }
