@@ -1800,6 +1800,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-18",
+      "date": "2026-11-18",
+      "number": "035",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Songs ft. Neeti Mohan",
+          "items": [
+            "Jiya Re",
+            "Nainowale Ne",
+            "Saadi Galli Aaja",
+            "Tune Maari Entriyaan"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Actors who Younger Brothers of Bollywood Actors",
+          "items": [
+            "Aparshakti Khurana",
+            "Ishaan Khatter",
+            "Arbaaz Khan",
+            "Sunny Kaushal"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Cast of MS Dhoni: The Untold Story ",
+          "items": [
+            "Sushant Singh Rajput",
+            "Disha Patani",
+            "Kiara Advani",
+            "Anupam Kher"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Actresses whose name means a flower ",
+          "items": [
+            "Nargis",
+            "Juhi Chawla",
+            "Daisy Shah",
+            "Padmini Kolhapure"
+          ]
+        }
+      ]
     }
   ]
 }
