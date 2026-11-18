@@ -1851,6 +1851,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-19",
+      "date": "2026-11-19",
+      "number": "036",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Characters from 3 Idiots",
+          "items": [
+            "Rancho",
+            "Farhan",
+            "Raju",
+            "Pia"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Films ft. Zeenat Aman",
+          "items": [
+            "Satyam Shivam Sundaram",
+            "Yaadon Ki Baaraat",
+            "Don",
+            "Qurbani"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Songs from Jagga Jasoos",
+          "items": [
+            "Galti se Mistake",
+            "Ullu ka Pattha",
+            "Jhumritalaiyya",
+            "Phir Wahi"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": " Films where the protagonist is a journalist",
+          "items": [
+            "Dhamaka",
+            "No One Killed Jessica",
+            "Rocky Aur Rani Kii Prem Kahaani",
+            "Page 3"
+          ]
+        }
+      ]
     }
   ]
 }
