@@ -1902,6 +1902,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-20",
+      "date": "2026-11-20",
+      "number": "037",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Songs written by Kausar Munir",
+          "items": [
+            "Suno Na Sangemarmar",
+            "Aaj Se Teri",
+            "Falak Tak",
+            "Mashallah"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Leading Actresses of Rajkumar Hirani Films",
+          "items": [
+            "Anushka Sharma",
+            "Vidya Balan",
+            "Taapsee Pannu",
+            "Gracy Singh"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Actresses in Housefull 2",
+          "items": [
+            "Asin Thottumkal",
+            "Jacqueline Fernandez",
+            "Zareen Khan",
+            "Shazahn Padamsee"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Debut Films of Women Film Directors",
+          "items": [
+            "Salaam Bombay!",
+            "Filhaal...",
+            "Dhobi Ghat",
+            "Luck by Chance"
+          ]
+        }
+      ]
     }
   ]
 }
