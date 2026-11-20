@@ -1953,6 +1953,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-21",
+      "date": "2026-11-21",
+      "number": "038",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of Gehraiyaan",
+          "items": [
+            "Deepika Padukone",
+            "Siddhant Chaturvedi",
+            "Ananya Panday",
+            "Dhairya Karwa"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Songs ft. Aishwarya Rai",
+          "items": [
+            "O Bekhabar",
+            "Barso Re",
+            "Crazy Kiya Re",
+            "Udi"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Add Ishq to complete the movie title",
+          "items": [
+            "Vishk",
+            "Salaam-E",
+            "Daawat-E",
+            "Kambhakkt"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movies with an age gap romance",
+          "items": [
+            "Cheeni Kum",
+            "De De Pyaar De",
+            "Lamhe",
+            "Dil Chahta Hai"
+          ]
+        }
+      ]
     }
   ]
 }
