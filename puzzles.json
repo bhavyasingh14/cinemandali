@@ -2004,6 +2004,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-22",
+      "date": "2026-11-22",
+      "number": "039",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Choreographers from the Hindi Film Industry",
+          "items": [
+            "Farah Khan",
+            "Saroj Khan",
+            "Ganesh Acharya",
+            "Remo D’Souza"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Movies ft. Ajay Devgn",
+          "items": [
+            "Singham",
+            "Gangajal",
+            "Drishyam",
+            "Raincoat"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Songs by Honey Singh",
+          "items": [
+            "Lungi Dance",
+            "Chaar Botal Vodka",
+            "Party All Night",
+            "One Bottle Down"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Directors that are FTII Graduates",
+          "items": [
+            "Rajkumar Hirani",
+            "Vidhu Vinod Chopra",
+            "Sanjay Leela Bhansali",
+            "Subhash Ghai"
+          ]
+        }
+      ]
     }
   ]
 }
