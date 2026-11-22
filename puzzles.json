@@ -2055,6 +2055,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-23",
+      "date": "2026-11-23",
+      "number": "040",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Songs by Sonu Nigam",
+          "items": [
+            "Main Agar Kahoon",
+            "Abhi Mujh Mein Kahin",
+            "Soniyo",
+            "Dil Dooba"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Spy Thriller Films",
+          "items": [
+            "Baby",
+            "Mission Majnu",
+            "War",
+            "Alpha"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Films ft. Bhumi Pednekar",
+          "items": [
+            "Toilet Ek Prem Katha",
+            "Pati Patni Aur Woh",
+            "Bala",
+            "Bhakshak"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Hindi Films directed by A. R. Murugadoss",
+          "items": [
+            "Holiday",
+            "Akira",
+            "Ghajini",
+            "Sikandar"
+          ]
+        }
+      ]
     }
   ]
 }
