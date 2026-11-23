@@ -2106,6 +2106,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-24",
+      "date": "2026-11-24",
+      "number": "041",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast of The Archies (2023)",
+          "items": [
+            "Agastya Nanda",
+            "Suhana Khan",
+            "Vedang Raina",
+            "Khushi Kapoor"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Cast of Sunny Sanskari ki Tulsi Kumari ",
+          "items": [
+            "Janhvi Kapoor",
+            "Varun Dhawan",
+            "Rohit Saraf",
+            "Sanya Malhotra"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Locations in Dhoom 2 ",
+          "items": [
+            "Namib",
+            "Mumbai",
+            "Rio",
+            "Fiji"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Locations in Karwaan",
+          "items": [
+            "Bengaluru",
+            "Kochi",
+            "Ooty",
+            "Kumarakoram"
+          ]
+        }
+      ]
     }
   ]
 }
