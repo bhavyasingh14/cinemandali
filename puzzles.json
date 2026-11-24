@@ -2157,6 +2157,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-25",
+      "date": "2026-11-25",
+      "number": "042",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Shreya Ghoshal Songs ",
+          "items": [
+            "Piyu Bole",
+            "Bairi Piya",
+            "Dola Re Dola",
+            "Deewani Mastani"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Aamir Khan Films",
+          "items": [
+            "Dil",
+            "Ishq",
+            "Ghulaam",
+            "Sarfarosh"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Films based on Bengali Literature",
+          "items": [
+            "Devdas",
+            "Parineeta",
+            "Sahib Bibi aur Ghulam",
+            "Bandini"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Rajshri Heroines",
+          "items": [
+            "Madhuri Dixit",
+            "Bhagyashree",
+            "Sonali Bendre",
+            "Sharvari"
+          ]
+        }
+      ]
     }
   ]
 }
