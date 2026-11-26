@@ -2259,6 +2259,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-27",
+      "date": "2026-11-27",
+      "number": "044",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Cast Members of Golmaal Again ",
+          "items": [
+            "Ajay Devgn",
+            "Tabu",
+            "Parineeti Chopra",
+            "Arshad Warsi"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Films ft. Ileana D’Cruz",
+          "items": [
+            "Main Tera Hero",
+            "Raid",
+            "Rustom",
+            "Happy Ending"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Remo D’Souza Directorials ",
+          "items": [
+            "ABCD 2",
+            "A Flying Jatt",
+            "Race 3",
+            "F.A.L.T.U"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Films with Nawazuddin Siddiqui in a Negative Role",
+          "items": [
+            "Thamma",
+            "Raman Raghav 2.0",
+            "Black Friday",
+            "Badlapur"
+          ]
+        }
+      ]
     }
   ]
 }
