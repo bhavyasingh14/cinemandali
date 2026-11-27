@@ -2310,6 +2310,57 @@
           ]
         }
       ]
+    },
+    {
+      "id": "daily-2026-11-28",
+      "date": "2026-11-28",
+      "number": "045",
+      "groups": [
+        {
+          "id": "group-1",
+          "difficulty": 1,
+          "name": "Films ft. Yami Gautam ",
+          "items": [
+            "Nayyi Navelli",
+            "Vicky Donor",
+            "Kaabil",
+            "Sanam Re"
+          ]
+        },
+        {
+          "id": "group-2",
+          "difficulty": 2,
+          "name": "Songs from Kal Ho Naa Ho",
+          "items": [
+            "Kuch To Hua Hai",
+            "Pretty Woman",
+            "Maahi Ve",
+            "It's the Time to Disco"
+          ]
+        },
+        {
+          "id": "group-3",
+          "difficulty": 3,
+          "name": "Songs titles with items of clothing",
+          "items": [
+            "Saree Ke Fall Sa",
+            "Ghagra",
+            "Sharara",
+            "Dupatta Tera Nau Rang Da"
+          ]
+        },
+        {
+          "id": "group-4",
+          "difficulty": 4,
+          "name": "Movie Titles with an Actor’s name in it ",
+          "items": [
+            "Govinda Naam Mera",
+            "R... Rajkumar",
+            "Bol Bachchan",
+            "Aamir"
+          ]
+        }
+      ]
     }
   ]
 }
